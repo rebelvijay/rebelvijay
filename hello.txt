@@ -1,0 +1,170 @@
+5 PM
+27°
+RealFeel® 28°
+rain drop67%
+Thunderstorms
+RealFeel Shade™
+28°
+
+Wind
+W 17 km/h
+
+Air Quality
+Poor
+
+Max UV Index
+1 Low
+
+Wind Gusts
+35 km/h
+
+Humidity
+82%
+
+Indoor Humidity
+82% (Extremely Humid)
+
+Dew Point
+23° C
+
+Cloud Cover
+100%
+
+Rain
+1.9 mm
+
+Visibility
+8 km
+
+Cloud Ceiling
+5900 m
+
+6 PM
+26°
+RealFeel® 29°
+rain drop49%
+Cloudy
+RealFeel Shade™
+29°
+
+Wind
+W 19 km/h
+
+Air Quality
+Poor
+
+Max UV Index
+0 Low
+
+
+
+
+
+
+
+
+7 PM
+26°
+RealFeel® 28°
+rain drop34%
+Cloudy
+Wind
+W 20 km/h
+
+Air Quality
+Poor
+
+Wind Gusts
+41 km/h
+
+Humidity
+86%
+
+
+
+
+
+
+8 PM
+25°
+RealFeel® 27°
+rain drop34%
+Cloudy
+Wind
+W 20 km/h
+
+Air Quality
+Poor
+
+Wind Gusts
+43 km/h
+
+Humidity
+85%
+
+
+
+
+
+
+9 PM
+25°
+RealFeel® 26°
+rain drop40%
+Cloudy
+Wind
+W 20 km/h
+
+Air Quality
+Poor
+
+Wind Gusts
+43 km/h
+
+Humidity
+87%
+
+
+
+
+
+
+10 PM
+24°
+RealFeel® 24°
+rain drop54%
+Rain
+Wind
+W 22 km/h
+
+Air Quality
+Poor
+
+Wind Gusts
+43 km/h
+
+Humidity
+86%
+
+
+
+
+
+
+
+11 PM
+25°
+RealFeel® 25°
+rain drop49%
+Showers
+Wind
+W 22 km/h
+
+Air Quality
+Poor
+
+Wind Gusts
+43 km/h
+
+Humidity
+84%
